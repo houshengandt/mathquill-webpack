@@ -1,13 +1,10 @@
 # mathquill-webpack
 > A release mirror for easier mathquill installation with npm and webpack
+## mathquill version: 2e9d77955178270130aeab853b265f7a4cce3171
 
 ## usage
-- First install
-```
-$ npm install https://github.com/luxp/mathquill-webpack.git
-```
 
-- Then import Mathquill into your project
+- Import Mathquill into your project
 ```js
   import MathQuill from 'mathquill';
 ```
